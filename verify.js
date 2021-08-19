@@ -39,7 +39,7 @@ async function main() {
 
     const publicKey = packedTransaction.signatures[0].recoverDigest(digest)
     console.log('\nPublic Key from Signing Digest')
-    console.log(JSON.stringify(publicKey))
+    console.log(String(publicKey.toLegacyString('FIO')))
 
     const digestVerified = packedTransaction.signatures[0].verifyDigest(digest, publicKey)
     console.log('\nSigning Digest Verified')

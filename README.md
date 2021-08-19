@@ -62,7 +62,7 @@ Signing Digest
 571c6056fb8b5a6289fe7249994a7efbc84653a40fce7d74314a9253cc4736a1
 
 Public Key from Signing Digest
-"PUB_K1_82dtsN8K68pjyDR73nPtm81akA1nRHqNbwW25ietEEV7PJ9Qz6"
+FIO82dtsN8K68pjyDR73nPtm81akA1nRHqNbwW25ietEEV7TpqWHq
 
 Signing Digest Verified
 true
