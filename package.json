@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@greymass/eosio": "^0.4.8",
+    "node-fetch": "^2.6.1"
+  }
+}
